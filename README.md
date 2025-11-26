@@ -83,15 +83,15 @@ A key component of our project is network visualization using Cytoscape.
 
 We imported our ingredient network into Cytoscape to produce:
 
-Ingredient Co-Occurrence Graph
+1. Ingredient Co-Occurrence Graph
 -Nodes sized by ingredient frequency
 -Edges weighted by how often two ingredients appear together
 
-Communities / Clusters
+2. Communities / Clusters
 -Groups of ingredients forming cuisine-specific clusters
 -e.g., Indian masala cluster, Italian herb cluster
 
-High-degree Ingredient Hubs
+3. High-degree Ingredient Hubs
 -Garlic, onion, tomato, oil often appear as central hubs.
 
 -----
