@@ -92,8 +92,8 @@ Communities / Clusters
 -e.g., Indian masala cluster, Italian herb cluster
 
 High-degree Ingredient Hubs
--Garlic, onion, tomato, oil often appear as central hubs
-These visuals helped interpret the relationships detected by pattern mining.
+-Garlic, onion, tomato, oil often appear as central hubs.
+
 -----
 
 
