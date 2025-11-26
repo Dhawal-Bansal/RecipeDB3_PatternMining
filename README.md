@@ -38,7 +38,7 @@ The notebook relies on data from **RecipeDB**. Ensure the following files are pr
 
 > **Note:** The script generates an intermediate file named `transformed_recipes.csv` during execution.
 
-## 🛠 Installation & Requirements
+## Installation & Requirements
 To run this notebook, you will need Python installed along with the following libraries:
 
 ```bash
