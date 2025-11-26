@@ -77,16 +77,26 @@ The analysis follows these steps:
   * **Biryani Composition:** The analysis identified that `Basmati Rice`, `Cinnamon`, `Bay Leaf`, and `Clove` form a highly frequent itemset (appearing together in \~37% of Biryani recipes).
   * **Strong Rules:** High-confidence rules were found, such as `{Allspice} -> {Chicken}`.
 
-## Visualizations
+#Visualization Using Cytoscape
 
-The notebook includes code to generate:
+A key component of our project is network visualization using Cytoscape.
 
-  * **Network Graphs:** Visual nodes and edges representing the strength of connection between ingredients (e.g., Chicken and Onion).
-  * **Bar Charts:** Frequency distribution of top ingredients.
+We imported our ingredient network into Cytoscape to produce:
 
+Ingredient Co-Occurrence Graph
+-Nodes sized by ingredient frequency
+-Edges weighted by how often two ingredients appear together
+
+Communities / Clusters
+-Groups of ingredients forming cuisine-specific clusters
+-e.g., Indian masala cluster, Italian herb cluster
+
+High-degree Ingredient Hubs
+-Garlic, onion, tomato, oil often appear as central hubs
+
+These visuals helped interpret the relationships detected by pattern mining.
 -----
 
-*Created for the analysis of RecipeDB data patterns.*
 
 ```
 ```
