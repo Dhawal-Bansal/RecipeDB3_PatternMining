@@ -1,5 +1,5 @@
 # RecipeDB3_PatternMining
-````markdown
+
 # Recipe Pattern Mining & Ingredient Association Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
