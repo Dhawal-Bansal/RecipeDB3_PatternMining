@@ -77,7 +77,7 @@ The analysis follows these steps:
   * **Biryani Composition:** The analysis identified that `Basmati Rice`, `Cinnamon`, `Bay Leaf`, and `Clove` form a highly frequent itemset (appearing together in \~37% of Biryani recipes).
   * **Strong Rules:** High-confidence rules were found, such as `{Allspice} -> {Chicken}`.
 
-#Visualization Using Cytoscape
+## Visualization Using Cytoscape
 
 A key component of our project is network visualization using Cytoscape.
 
