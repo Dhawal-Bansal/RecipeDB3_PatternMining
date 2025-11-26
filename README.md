@@ -93,7 +93,6 @@ Communities / Clusters
 
 High-degree Ingredient Hubs
 -Garlic, onion, tomato, oil often appear as central hubs
-
 These visuals helped interpret the relationships detected by pattern mining.
 -----
 
