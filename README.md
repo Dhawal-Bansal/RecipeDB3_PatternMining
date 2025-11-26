@@ -98,7 +98,8 @@ We imported our ingredient network into Cytoscape to generate multiple visual re
   - Garlic  
   - Onion  
   - Tomato  
-  - Oil  
+  - Oil
+    
 These ingredients often appear as major hubs in the network.
 
 -----
